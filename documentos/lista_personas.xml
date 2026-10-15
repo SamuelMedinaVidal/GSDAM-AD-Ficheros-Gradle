@@ -1,0 +1,18 @@
+<ArrayList>
+  <item>
+    <nombre>Lucía</nombre>
+    <edad>28</edad>
+  </item>
+  <item>
+    <nombre>Pepe</nombre>
+    <edad>30</edad>
+  </item>
+  <item>
+    <nombre>Ana</nombre>
+    <edad>50</edad>
+  </item>
+  <item>
+    <nombre>Juan</nombre>
+    <edad>12</edad>
+  </item>
+</ArrayList>

@@ -1,0 +1,18 @@
+<ListaPersonas>
+  <persona>
+    <nombre>Lucía</nombre>
+    <edad>28</edad>
+  </persona>
+  <persona>
+    <nombre>Pepe</nombre>
+    <edad>30</edad>
+  </persona>
+  <persona>
+    <nombre>Ana</nombre>
+    <edad>50</edad>
+  </persona>
+  <persona>
+    <nombre>Juan</nombre>
+    <edad>12</edad>
+  </persona>
+</ListaPersonas>
