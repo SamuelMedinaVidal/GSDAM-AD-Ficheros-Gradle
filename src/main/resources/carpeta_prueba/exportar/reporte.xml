@@ -1,0 +1,24 @@
+<Reporte>
+  <archivo>
+    <archivo>
+      <nombre>datos.csv</nombre>
+      <tipo>Archivo</tipo>
+      <tamano>51</tamano>
+    </archivo>
+    <archivo>
+      <nombre>documento.txt</nombre>
+      <tipo>Archivo</tipo>
+      <tamano>180</tamano>
+    </archivo>
+    <archivo>
+      <nombre>exportar</nombre>
+      <tipo>Directorio</tipo>
+      <tamano>0</tamano>
+    </archivo>
+    <archivo>
+      <nombre>imagen.jpg</nombre>
+      <tipo>Archivo</tipo>
+      <tamano>0</tamano>
+    </archivo>
+  </archivo>
+</Reporte>

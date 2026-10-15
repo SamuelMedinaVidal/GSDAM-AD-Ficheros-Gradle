@@ -1,0 +1,2 @@
+Este archivo solo debe aparecer cuando
+mostrar_archivos_ocultos sea true.

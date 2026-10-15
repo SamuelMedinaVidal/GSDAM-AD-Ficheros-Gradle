@@ -1,0 +1,17 @@
+[ {
+  "nombre" : "datos.csv",
+  "tipo" : "Archivo",
+  "tamano" : 51
+}, {
+  "nombre" : "documento.txt",
+  "tipo" : "Archivo",
+  "tamano" : 180
+}, {
+  "nombre" : "exportar",
+  "tipo" : "Directorio",
+  "tamano" : 0
+}, {
+  "nombre" : "imagen.jpg",
+  "tipo" : "Archivo",
+  "tamano" : 0
+} ]
