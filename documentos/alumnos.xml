@@ -1,0 +1,14 @@
+<ListaAlumnos>
+  <alumno>
+    <nombre>Lucía</nombre>
+    <nota>8</nota>
+  </alumno>
+  <alumno>
+    <nombre>Carlos</nombre>
+    <nota>6</nota>
+  </alumno>
+  <alumno>
+    <nombre>María</nombre>
+    <nota>10</nota>
+  </alumno>
+</ListaAlumnos>
