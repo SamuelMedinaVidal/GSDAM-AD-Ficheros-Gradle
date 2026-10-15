@@ -1,4 +1,4 @@
-package org.example
+package org.example.Ejemplos
 
 import com.opencsv.CSVReader
 import com.opencsv.CSVWriter

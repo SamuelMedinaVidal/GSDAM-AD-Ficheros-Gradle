@@ -1,6 +1,7 @@
-package org.example
+package org.example.Ejemplos
 
-import kotlinx.serialization.json.Json
+import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
+import com.fasterxml.jackson.module.kotlin.readValue
 import java.io.DataOutputStream
 import java.io.File
 import java.io.FileOutputStream
@@ -13,9 +14,9 @@ fun main() {
     val rutaJson = "documentos/lista_personas.json"
     val rutaBin = "documentos/lista_personas.dat"
 
-    // Leer JSON
-    val contenido = File(rutaJson).readText()
-    val personas = Json.decodeFromString<List<Persona>>(contenido)
+    // Leer JSON con Jackson
+    val mapper = jacksonObjectMapper()
+    val personas: List<Persona> = mapper.readValue(File(rutaJson))
 
     // Crear carpeta si no existe
     Files.createDirectories(Paths.get(rutaBin).parent)

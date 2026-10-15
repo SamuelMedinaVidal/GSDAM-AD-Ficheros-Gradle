@@ -1,11 +1,10 @@
-package org.example
+package org.example.Ejemplos
 
 import com.fasterxml.jackson.dataformat.xml.XmlMapper
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import com.fasterxml.jackson.module.kotlin.readValue
 import com.fasterxml.jackson.module.kotlin.registerKotlinModule
 import java.io.File
-import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper
 
 fun convertirListaXmlAJsonNodo(xmlPath: String, jsonPath: String) {
     val jsonMapper = jacksonObjectMapper()

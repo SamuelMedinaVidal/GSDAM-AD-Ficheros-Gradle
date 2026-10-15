@@ -1,4 +1,4 @@
-package org.example
+package org.example.Ejemplos
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper
 

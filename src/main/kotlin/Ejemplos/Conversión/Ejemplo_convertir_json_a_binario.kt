@@ -1,4 +1,4 @@
-package org.example
+package org.example.Ejemplos
 
 import kotlinx.serialization.json.Json
 import java.io.DataOutputStream

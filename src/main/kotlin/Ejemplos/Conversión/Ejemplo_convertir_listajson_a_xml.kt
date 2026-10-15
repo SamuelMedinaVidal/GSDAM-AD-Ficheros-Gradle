@@ -1,4 +1,4 @@
-package org.example
+package org.example.Ejemplos
 
 import com.fasterxml.jackson.dataformat.xml.XmlMapper
 import com.fasterxml.jackson.module.kotlin.readValue
